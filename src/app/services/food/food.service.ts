@@ -19,17 +19,17 @@ return [
     "tags":['indian','italy'],
     "imageUlr":'/assets/1.jpg',
     "cookTime":"1-2",
-    "origin":['indian','italy']
+    "origins":['indian','italy']
   },{
     "id":2,
     "price":100,
     "name":"paneer butter masala",
-    "favorite":false,
+    "favorite":true,
     "star": 1,
     "tags":['indian','italy'],
     "imageUlr": '/assets/2.jpg',
     "cookTime":"1-2",
-    "origin":['indian','italy']
+    "origins":['indian','italy']
   },{
     "id":3,
     "price":100,
@@ -39,7 +39,7 @@ return [
     "tags":['indian','italy'],
     "imageUlr":'/assets/3.jpg',
     "cookTime":"1-2",
-    "origin":['indian','italy']
+    "origins":['indian','italy']
   },{
     "id":4,
     "price":100,
@@ -49,17 +49,17 @@ return [
     "tags":['indian','italy'],
     "imageUlr":'/assets/4.jpg',
     "cookTime":"1-2",
-    "origin":['indian','italy']
+    "origins":['indian','italy']
   },{
     "id":5,
     "price":100,
     "name":"paneer butter masala",
-    "favorite":false,
+    "favorite":true,
     "star": 1,
     "tags":['indian','italy'],
     "imageUlr":'/assets/5.jpg',
     "cookTime":"1-2",
-    "origin":['indian','italy']
+    "origins":['indian','italy']
   },{
     "id":6,
     "price":100,
@@ -69,17 +69,17 @@ return [
     "tags":['indian','italy'],
     "imageUlr":'/assets/6.jpg',
     "cookTime":"1-2",
-    "origin":['indian','italy']
+    "origins":['indian','italy']
   },{
     "id":7,
     "price":100,
     "name":"paneer butter masala",
-    "favorite":false,
+    "favorite":true,
     "star": 1,
     "tags":['indian','italy'],
     "imageUlr":'/assets/7.jpg',
     "cookTime":"1-2",
-    "origin":['indian','italy']
+    "origins":['indian','italy']
   }
 ]
   }

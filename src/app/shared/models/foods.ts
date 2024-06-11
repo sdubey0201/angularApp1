@@ -7,5 +7,5 @@ export class Foods{
     tags!:string[]
     imageUlr!:string;
     cookTime!:string;
-    origin!:string[];
+    origins!:string[];
 }
