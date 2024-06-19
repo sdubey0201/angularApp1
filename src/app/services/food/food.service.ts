@@ -23,7 +23,7 @@ return [
   },{
     "id":2,
     "price":100,
-    "name":"paneer butter masala",
+    "name":"gulabjamun",
     "favorite":true,
     "star": 1,
     "tags":['indian','italy'],
@@ -33,7 +33,7 @@ return [
   },{
     "id":3,
     "price":100,
-    "name":"paneer butter masala",
+    "name":"kaju katli",
     "favorite":false,
     "star": 1,
     "tags":['indian','italy'],
@@ -43,7 +43,7 @@ return [
   },{
     "id":4,
     "price":100,
-    "name":"paneer butter masala",
+    "name":"vage kadai",
     "favorite":false,
     "star": 1,
     "tags":['indian','italy'],
@@ -53,7 +53,7 @@ return [
   },{
     "id":5,
     "price":100,
-    "name":"paneer butter masala",
+    "name":"masroom masala",
     "favorite":true,
     "star": 1,
     "tags":['indian','italy'],
@@ -63,7 +63,7 @@ return [
   },{
     "id":6,
     "price":100,
-    "name":"paneer butter masala",
+    "name":"kaju masala",
     "favorite":false,
     "star": 1,
     "tags":['indian','italy'],

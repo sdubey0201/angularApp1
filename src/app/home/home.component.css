@@ -7,7 +7,7 @@ ul{
     padding: 0;
 }
 ul li a {
-    height: 25rem;
+    height: 20rem;
     width: 20rem;
     border: 1px solid whitesmoke;
     border-radius: 1rem;
@@ -42,4 +42,21 @@ li a:hover{
 .clock_time{
     position: absolute;
     right: 1rem;
+    font-size: .8rem;
+    text-align: right;
+}
+.origins {
+    flex: 9rem;
+}
+.origins span{
+    border-radius: 2rem;
+    background-color: whitesmoke;
+    color: grey;
+    font-size: .7rem;
+    margin-right: .3rem;
+    display: inline-block;
+}
+.price{
+  margin-top: .4rem;
+  color: grey;
 }
